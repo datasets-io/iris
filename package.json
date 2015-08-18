@@ -1,6 +1,6 @@
 {
   "name": "datasets-iris",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Edgar Anderson's iris data.",
   "author": {
     "name": "Athan Reines",
